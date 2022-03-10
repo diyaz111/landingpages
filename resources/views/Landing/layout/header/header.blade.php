@@ -1,7 +1,7 @@
 <div class="container">
     <!-- Logo container-->
     <div>
-        <a class="logo" href="index.html">Abbabill<span class="text-primary">.</span></a>
+        <a class="logo" href="index.html"><img src="{{asset ('images/logoicon.jpg')}}" width="50" height="auto;">Abbabill<span class="text-primary">.</span></a>
     </div>
     <!-- <div class="buy-button">
                     <a href="{{ url ('/wizard')}}" target="_blank" class="btn btn-primary">Coba Gratis</a>

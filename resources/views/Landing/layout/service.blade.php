@@ -113,6 +113,14 @@
         <!-- Feature Start -->
         <section class="section">
             <div class="container">
+            <div class="row justify-content-center">
+                    <div class="col-12 text-center">
+                        <div class="section-title mb-4 pb-2">
+                            <h4 class="main-title mb-4">Service</h4>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+                
                 <div class="row">
                     <div class="col-md-4 col-12">
                         <div class="features mt-5">
@@ -121,8 +129,8 @@
                             </div>
 
                             <div class="content mt-4">
-                                <h4 class="title-2">Design & Development</h4>
-                                <p class="text-muted mb-0">Nisi aenean vulputate eleifend tellus vitae eleifend enim a Aliquam aenean elementum semper.</p>
+                                <h4 class="title-2">Management Seller</h4>
+                                <p class="text-muted mb-0">Management seller untuk memudahkan mu memantau seller.</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -134,8 +142,8 @@
                             </div>
 
                             <div class="content mt-4">
-                                <h4 class="title-2">Management & Marketing</h4>
-                                <p class="text-muted mb-0">Allegedly, a Latin scholar established the origin of the text by established compiling unusual word.</p>
+                                <h4 class="title-2">Management Vendor</h4>
+                                <p class="text-muted mb-0">Atur semua nya sesuai keinginan mu.</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -147,8 +155,8 @@
                             </div>
 
                             <div class="content mt-4">
-                                <h4 class="title-2">Stratagy & Research</h4>
-                                <p class="text-muted mb-0">It seems that only fragments of the original text remain in the Lorem Ipsum fragments texts used today.</p>
+                                <h4 class="title-2">Management Reseller</h4>
+                                <p class="text-muted mb-0">Atur dan pantau reseller mu untuk perkembangan nya.</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -160,8 +168,8 @@
                             </div>
 
                             <div class="content mt-4">
-                                <h4 class="title-2">Easy To Use</h4>
-                                <p class="text-muted mb-0">Nisi aenean vulputate eleifend tellus vitae eleifend enim a Aliquam aenean elementum semper.</p>
+                                <h4 class="title-2">Terintegrasi Dengan Banyak Kurir</h4>
+                                <p class="text-muted mb-0">Tidak usah repot-repot memantau pengiriman mu ke halaman website lain, Kami sudah menyediakan jasa pengiriman langsung.</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -173,8 +181,8 @@
                             </div>
 
                             <div class="content mt-4">
-                                <h4 class="title-2">Daily Reports</h4>
-                                <p class="text-muted mb-0">Allegedly, a Latin scholar established the origin of the text by compiling unusual established word.</p>
+                                <h4 class="title-2">Laporan Penjualan</h4>
+                                <p class="text-muted mb-0">Buat Laporan penjualan mu dengan waktu yang kamu tentukan sendiri.</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -186,8 +194,8 @@
                             </div>
 
                             <div class="content mt-4">
-                                <h4 class="title-2">Real Time Zone</h4>
-                                <p class="text-muted mb-0">It seems that only fragments of the original text remain in the Lorem Ipsum texts used fragments today.</p>
+                                <h4 class="title-2">Mudah Untuk Digunakan</h4>
+                                <p class="text-muted mb-0">Tidak perlu ribet dan takut kesulitan, Semuanya diatur dengan keinginan mu sendiri.</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -195,53 +203,7 @@
             </div><!--end container-->
         </section><!--end section-->
         <!-- Feature Start -->
-        <section class="home-testimonial">
-    <div class="container-fluid">
         
-        <div class="row d-flex justify-content-center testimonial-pos">
-            <div class="col-md-12 pt-4 d-flex justify-content-center">
-                <h3>Client Reviews</h3>
-            </div>
-            <div class="col-md-12 d-flex justify-content-center">
-                <h2>Explore With Abbabill experience</h2>
-            </div>
-        </div>
-        <section class="home-testimonial-bottom">
-            <div class="container testimonial-inner">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-md-4 style-3">
-                        <div class="tour-item ">
-                            <div class="tour-desc bg-white">
-                                <div class="tour-text color-grey-3 text-center">“At this School, our mission is to balance a rigorous comprehensive college preparatory curriculum with healthy social and emotional development.”</div>
-                                <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="https://images.pexels.com/photos/6625914/pexels-photo-6625914.jpeg" alt=""></div>
-                                <div class="link-name d-flex justify-content-center">Balbir Kaur</div>
-                                <div class="link-position d-flex justify-content-center">Student</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 style-3">
-                        <div class="tour-item ">
-                            <div class="tour-desc bg-white">
-                                <div class="tour-text color-grey-3 text-center">“At this School, our mission is to balance a rigorous comprehensive college preparatory curriculum with healthy social and emotional development.”</div>
-                                <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt=""></div>
-                                <div class="link-name d-flex justify-content-center">Balbir Kaur</div>
-                                <div class="link-position d-flex justify-content-center">Student</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 style-3">
-                        <div class="tour-item ">
-                            <div class="tour-desc bg-white">
-                                <div class="tour-text color-grey-3 text-center">“At this School, our mission is to balance a rigorous comprehensive college preparatory curriculum with healthy social and emotional development.”</div>
-                                <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="https://images.pexels.com/photos/4946604/pexels-photo-4946604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt=""></div>
-                                <div class="link-name d-flex justify-content-center">Balbir Kaur</div>
-                                <div class="link-position d-flex justify-content-center">Student</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-        </section>
-        </section>
        
         <!-- Project Start -->
         <section class="section bg-light">
@@ -320,22 +282,6 @@
                                     <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
                                     <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
                                 </div>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-            
-            <div class="container mt-100 mt-60">
-                <div class="row justify-content-center">
-                    <div class="col-12 text-center">
-                        <div class="section-title">
-                            <h4 class="title mb-4">See everything about your employee at one place.</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        
-                            <div class="mt-3">
-                                <a href="javascript:void(0)" class="btn btn-primary mt-2 mr-2">Coba Gratis</a>
-                              
                             </div>
                         </div>
                     </div><!--end col-->

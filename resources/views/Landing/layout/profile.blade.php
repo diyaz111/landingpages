@@ -30,8 +30,15 @@
         <!-- Hero End -->
 
         <!-- About Start -->
-        <section class="section">
+        <section class="bg-half-170 border-bottom agency-wrapper">
             <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 text-center">
+                        <div class="section-title mb-4 pb-2">
+                            <h4 class="main-title mb-4">Tentang Kami</h4>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="position-relative">
@@ -52,126 +59,6 @@
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
-
-            <div class="container mt-100 mt-60">
-                <div class="row justify-content-center">
-                    <div class="col-12 text-center">
-                        <div class="section-title mb-4 pb-2">
-                            <h4 class="main-title mb-4">Feature Kami</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Mulai Bisnis Mu Dengan <span class="text-primary font-weight-bold">Ababbil</span>
-                          <p class="text-muted para-desc mb-0 mx-auto">Mulai dengan membuat website dengan nama <span class="text-danger font-weight-bold">Toko mu</span> sendiri.</p>
-                            <span class="text-primary font-weight-bold"><q>Kalau Jualan Bisa Lebih Mudah, Kenapa Harus Ribet.</q></span>
-                        </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="key-feature d-flex p-3 rounded shadow bg-white">
-                            <div class="icon text-center rounded-pill mr-3">
-                                <i class="mdi mdi-responsive text-primary"></i>
-                            </div>
-                            <div class="content mt-2">
-                                <h4 class="title mb-0">Fully Responsive</h4>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="key-feature d-flex p-3 rounded shadow bg-white">
-                            <div class="icon text-center rounded-pill mr-3">
-                                <i class="mdi mdi-internet-explorer text-primary"></i>
-                            </div>
-                            <div class="content mt-2">
-                                <h4 class="title mb-0">Website Nama Toko Sendiri</h4>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="key-feature d-flex p-3 rounded shadow bg-white">
-                            <div class="icon text-center rounded-pill mr-3">
-                                <i class="mdi mdi-cryengine text-primary"></i>
-                            </div>
-                            <div class="content mt-2">
-                                <h4 class="title mb-0">Dapat Membuka Reseller</h4>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="key-feature d-flex p-3 rounded shadow bg-white">
-                            <div class="icon text-center rounded-pill mr-3">
-                                <i class="mdi mdi-bootstrap text-primary"></i>
-                            </div>
-                            <div class="content mt-2">
-                                <h4 class="title mb-0">Terintegrasi Dengan Ekspedisi</h4>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="key-feature d-flex p-3 rounded shadow bg-white">
-                            <div class="icon text-center rounded-pill mr-3">
-                                <i class="mdi mdi-cube-outline text-primary"></i>
-                            </div>
-                            <div class="content mt-2">
-                                <h4 class="title mb-0">Pantau Progress Reseller</h4>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="key-feature d-flex p-3 rounded shadow bg-white">
-                            <div class="icon text-center rounded-pill mr-3">
-                                <i class="mdi mdi-sass text-primary"></i>
-                            </div>
-                            <div class="content mt-2">
-                                <h4 class="title mb-0">Reseller Komisi Penjualan</h4>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="key-feature d-flex p-3 rounded shadow bg-white">
-                            <div class="icon text-center rounded-pill mr-3">
-                                <i class="mdi mdi-check-decagram text-primary"></i>
-                            </div>
-                            <div class="content mt-2">
-                                <h4 class="title mb-0">Cairkan Dana Langsung</h4>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="key-feature d-flex p-3 rounded shadow bg-white">
-                            <div class="icon text-center rounded-pill mr-3">
-                                <i class="mdi mdi-vector-bezier text-primary"></i>
-                            </div>
-                            <div class="content mt-2">
-                                <h4 class="title mb-0"> Dashboard Sendiri</h4>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                        <div class="key-feature d-flex p-3 rounded shadow bg-white">
-                            <div class="icon text-center rounded-pill mr-3">
-                                <i class="mdi mdi-settings-outline text-primary"></i>
-                            </div>
-                            <div class="content mt-2">
-                                <h4 class="title mb-0">Atur Komisi Reseller</h4>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-
-                <div class="row justify-content-center">
-                    <div class="col-12 text-center mt-4 pt-2">
-                        <a href="javascript:void(0)" class="btn btn-primary">See More <i class="mdi mdi-arrow-right"></i></a>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
         </section><!--end section-->
         <!-- About End -->
 
@@ -182,7 +69,7 @@
                     <div class="col-12 text-center">
                         <div class="section-title mb-4 pb-2">
                             <h4 class="main-title mb-4">Our Team</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Ababbil</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Abbabill</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -256,22 +143,6 @@
                             <div class="content pt-3 pb-3">
                                 <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Ahmad Diyaz</a></h5>
                                 <small class="designation text-muted">Developer Orang Ganteng</small>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-
-            <div class="container mt-100 mt-60">
-                <div class="row justify-content-center">
-                    <div class="col-12 text-center">
-                        <div class="section-title">
-                            <h4 class="title mb-4">See everything about your employee at one place.</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        
-                            <div class="mt-6">
-                                <a href="javascript:void(0)" class="btn btn-primary mt-2 mr-2">Free Trial</a>
-                               
                             </div>
                         </div>
                     </div><!--end col-->

@@ -276,43 +276,43 @@
 					
 					<div class="carousel" data-arrows="true" data-autoplay="true" data-items="5" data-items-sm="3" data-items-xs="1">
 						<div class="carousel-item">
-                        <img src="{{asset ('images/anteraja.png')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/anteraja.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
 						<div class="carousel-item">
-                        <img src="{{asset ('images/bca.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/bca.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
 						<div class="carousel-item">
-                        <img src="{{asset ('images/gopay.png')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/gopay.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
 						<div class="carousel-item">
-                        <img src="{{asset ('images/idexpres.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/idexpres.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
 						<div class="carousel-item">
-                        <img src="{{asset ('images/jne.png')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/jne.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
 						<div class="carousel-item">
-                        <img src="{{asset ('images/j&t.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/j&t.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
 						<div class="carousel-item">
-                        <img src="{{asset ('images/ovo.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/ovo.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
                         <div class="carousel-item">
-                        <img src="{{asset ('images/qris.png')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/qris.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
                         <div class="carousel-item">
-                        <img src="{{asset ('images/seriucargo.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/seriu.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
                         <div class="carousel-item">
-                        <img src="{{asset ('images/shope.png')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/shope.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
 					</div>
@@ -414,7 +414,7 @@
                 </div><!--end row-->
                 <div class="row justify-content-center">
                     <div class="col-12 text-center mt-4 pt-2">
-                        <a href="javascript:void(0)" class="btn btn-primary">Lihat Selengkapnya <i class="mdi mdi-arrow-right"></i></a>
+                        <a href="{{ url('/feature')}}" class="btn btn-primary">Lihat Selengkapnya <i class="mdi mdi-arrow-right"></i></a>
                     </div><!--end col-->
                 </div><!--end row-->
   
@@ -425,7 +425,7 @@
         
         <div class="row d-flex justify-content-center testimonial-pos">
             <div class="col-md-12 pt-4 d-flex justify-content-center">
-                <h3>Client Reviews</h3>
+                <h3>Ulasan Costumer</h3>
             </div>
             <div class="col-md-12 d-flex justify-content-center">
                 <h2>Explore With Abbabill experience</h2>
@@ -437,30 +437,31 @@
                     <div class="col-md-4 style-3">
                         <div class="tour-item ">
                             <div class="tour-desc bg-white">
-                                <div class="tour-text color-grey-3 text-center">“At this School, our mission is to balance a rigorous comprehensive college preparatory curriculum with healthy social and emotional development.”</div>
+                                <div class="tour-text color-grey-3 text-center">“Bekerja sama bersama Abbabill membuat saya lebih mudah dalam memantau dan mengatur keuangan dan mengatur semua produk saya.”</div>
                                 <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="https://images.pexels.com/photos/6625914/pexels-photo-6625914.jpeg" alt=""></div>
-                                <div class="link-name d-flex justify-content-center">Balbir Kaur</div>
-                                <div class="link-position d-flex justify-content-center">Student</div>
+                                <div class="link-name d-flex justify-content-center">Ahmad Diyaz</div>
+                                <div class="link-position d-flex justify-content-center">Owner in Widjaya Web</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 style-3">
                         <div class="tour-item ">
                             <div class="tour-desc bg-white">
-                                <div class="tour-text color-grey-3 text-center">“At this School, our mission is to balance a rigorous comprehensive college preparatory curriculum with healthy social and emotional development.”</div>
+                                <div class="tour-text color-grey-3 text-center">“Saya membuka toko sepatu online sebelum menggunakan Abbabill itu banyak sekali barang yang tidak sampai atau bahkan tidak terkirim sama sekali, semenjak saya bergabung di Abbabill
+                                    saya dapat memantau pengirimin barang saya.”</div>
                                 <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt=""></div>
-                                <div class="link-name d-flex justify-content-center">Balbir Kaur</div>
-                                <div class="link-position d-flex justify-content-center">Student</div>
+                                <div class="link-name d-flex justify-content-center">Hendi</div>
+                                <div class="link-position d-flex justify-content-center">Owner off Nazma Shoes</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 style-3">
                         <div class="tour-item ">
                             <div class="tour-desc bg-white">
-                                <div class="tour-text color-grey-3 text-center">“At this School, our mission is to balance a rigorous comprehensive college preparatory curriculum with healthy social and emotional development.”</div>
+                                <div class="tour-text color-grey-3 text-center">“Saya mempunyai beberapa toko baju di kota Tangerang, Abbabill membantu saya dalam memantau progress toko saya baik cabang ataupun pusat.”</div>
                                 <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="https://images.pexels.com/photos/4946604/pexels-photo-4946604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt=""></div>
-                                <div class="link-name d-flex justify-content-center">Balbir Kaur</div>
-                                <div class="link-position d-flex justify-content-center">Student</div>
+                                <div class="link-name d-flex justify-content-center">Andrew Pranesta</div>
+                                <div class="link-position d-flex justify-content-center">Owner off Klambi Ananta</div>
                             </div>
                         </div>
                     </div>
@@ -470,6 +471,7 @@
         <section>
             <br>
             <br>
+            
         <footer class="footer">
         @include('Landing.layout.footer.footer')
         <!--end container-->
