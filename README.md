@@ -10,6 +10,6 @@
 
 1. Run `composer install`
 2. Run `npm install` for development only
-3. Create .env file, please add config in Environment Section below
+3. Cp .env.example .env
 4. Run `php artisan key:generate`
 5. Run `php artisan storage:link`
