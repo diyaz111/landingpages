@@ -17,6 +17,18 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Premium Bootstrap 4 Landing Page Template" />
+    <meta name="keywords" content="bootstrap 4, premium, marketing, multipurpose" />
+    <meta content="Shreethemes" name="author" />
+    <!-- favicon -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <!-- Bootstrap -->
+    <link href="{{asset ('landrick-asset/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" />
+    <!-- Icons -->
+    <link href="{{asset ('landrick-asset/css/materialdesignicons.min.css')}}" rel="stylesheet" type="text/css" />
+    <!-- Main css -->
+    <link href="{{asset ('landrick-asset/css/style.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
@@ -79,5 +91,11 @@
             @yield('content')
         </main>
     </div>
+    <script src="{{asset ('landrick-asset/js/jquery.min.js')}}"></script>
+    <script src="{{asset ('landrick-asset/js/bootstrap.bundle.min.js')}}"></script>
+    <script src="{{asset ('landrick-asset/js/jquery.easing.min.js')}}"></script>
+    <script src="{{asset('landrick-asset/js/scrollspy.min.js')}}"></script>
+    <!-- Main Js -->
+    <script src="{{asset ('landrick-asset/js/app.js')}}"></script>
 </body>
 </html>

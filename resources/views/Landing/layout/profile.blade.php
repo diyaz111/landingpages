@@ -63,7 +63,7 @@
         <!-- About End -->
 
         <!-- Team Start -->
-        <section class="section bg-light">
+        <!-- <section class="section bg-light">
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
@@ -71,8 +71,8 @@
                             <h4 class="main-title mb-4">Our Team</h4>
                             <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Abbabill</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
                         </div>
-                    </div><!--end col-->
-                </div><!--end row-->
+                    </div>
+                </div>
 
                 <div class="row">
                     <div class="col-lg-3 col-md-6 mt-4 pt-2">
@@ -91,7 +91,7 @@
                                 <small class="designation text-muted">C.E.O</small>
                             </div>
                         </div>
-                    </div><!--end col-->
+                    </div>
 
                     <div class="col-lg-3 col-md-6 mt-4 pt-2">
                         <div class="team text-center">
@@ -109,7 +109,7 @@
                                 <small class="designation text-muted">Developer</small>
                             </div>
                         </div>
-                    </div><!--end col-->
+                    </div>
                     
                     <div class="col-lg-3 col-md-6 mt-4 pt-2">
                         <div class="team text-center">
@@ -127,7 +127,7 @@
                                 <small class="designation text-muted">Developer</small>
                             </div>
                         </div>
-                    </div><!--end col-->
+                    </div>
                     
                     <div class="col-lg-3 col-md-6 mt-4 pt-2">
                         <div class="team text-center">
@@ -145,10 +145,10 @@
                                 <small class="designation text-muted">Developer Orang Ganteng</small>
                             </div>
                         </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-        </section><!--end section-->
+                    </div>
+                </div>
+            </div>
+        </section> -->
         
         <!-- Project Start -->
         

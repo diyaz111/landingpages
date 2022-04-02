@@ -211,8 +211,8 @@
                 <div class="row justify-content-center">
                     <div class="col-12 text-center">
                         <div class="section-title mb-4 pb-2">
-                            <h4 class="main-title mb-4">Our Latest Projects</h4>
-                            <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                            <h4 class="main-title mb-4">Dashboard</h4>
+                            <p class="text-muted para-desc mx-auto mb-0">Mulai bisnis mu dengan <span class="text-primary font-weight-bold">Abbabill</span> Maka semuanya akan menjadi lebih mudah.</p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -221,15 +221,15 @@
                     <div class="col-lg-6 col-md-6 mt-4 pt-2">
                         <div class="work-container position-relative rounded">                                
                             <div class="position-relative overflow-hidden">
-                                <img src="{{asset ('landrick-asset/images/work/1.jpg')}}" class="img-fluid rounded" alt="work-image">
+                                <img src="{{asset ('images/adminvendor.jpg')}}" class="img-fluid rounded" alt="work-image">
                                 <div class="overlay-work"></div>
                                 <div class="content">
-                                    <a href="javascript:void(0)" class="title text-white d-block font-weight-bold">Shifting Perspective</a>
-                                    <small class="text-light">Studio</small>
+                                    <a href="javascript:void(0)" class="title text-white d-block font-weight-bold">Admin Vendor</a>
+                                    <small class="text-light">Admin Vendor</small>
                                 </div>
                                 <div class="client">
-                                    <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                    <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                                    <small class="text-light user d-block"><i class="mdi mdi-account"></i> Ahmad Diyaz</small>
+                                    <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 Januari, 2021</small>
                                 </div>
                             </div>
                         </div>
@@ -238,15 +238,15 @@
                     <div class="col-lg-6 col-md-6 mt-4 pt-2">
                         <div class="work-container position-relative shadow rounded">                                
                             <div class="position-relative overflow-hidden">
-                                <img src="{{asset ('landrick-asset/images/work/2.jpg')}}" class="img-fluid rounded" alt="work-image">
+                                <img src="{{asset ('images/reseller.jpg')}}" class="img-fluid rounded" alt="work-image">
                                 <div class="overlay-work"></div>
                                 <div class="content">
-                                    <a href="javascript:void(0)" class="title text-white d-block font-weight-bold">Colors Magazine</a>
-                                    <small class="text-light">Web Design</small>
+                                    <a href="javascript:void(0)" class="title text-white d-block font-weight-bold">Reseller</a>
+                                    <small class="text-light">Reseller</small>
                                 </div>
                                 <div class="client">
-                                    <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                    <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                                    <small class="text-light user d-block"><i class="mdi mdi-account"></i> Ahmad Diyaz</small>
+                                    <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 Januari, 2021</small>
                                 </div>
                             </div>
                         </div>
@@ -255,36 +255,21 @@
                     <div class="col-lg-6 col-md-6 mt-4 pt-2">
                         <div class="work-container position-relative shadow rounded">                                
                             <div class="position-relative overflow-hidden">
-                                <img src="{{asset ('landrick-asset/images/work/3.jpg')}}" class="img-fluid rounded" alt="work-image">
+                                <img src="{{asset ('images/seller.jpg')}}" class="img-fluid rounded" alt="work-image">
                                 <div class="overlay-work"></div>
                                 <div class="content">
-                                    <a href="javascript:void(0)" class="title text-white d-block font-weight-bold">Spa Cosmetics</a>
-                                    <small class="text-light">Developing</small>
+                                    <a href="javascript:void(0)" class="title text-white d-block font-weight-bold">Seller</a>
+                                    <small class="text-light">Seller</small>
                                 </div>
                                 <div class="client">
-                                    <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                    <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                                    <small class="text-light user d-block"><i class="mdi mdi-account"></i> Ahmad Diyaz</small>
+                                    <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13 Januar, 2021</small>
                                 </div>
                             </div>
                         </div>
                     </div><!--end col-->
 
-                    <div class="col-lg-6 col-md-6 mt-4 pt-2">
-                        <div class="work-container position-relative shadow rounded">                                
-                            <div class="position-relative overflow-hidden">
-                                <img src="{{asset ('landrick-asset/images/work/4.jpg')}}" class="img-fluid rounded" alt="work-image">
-                                <div class="overlay-work"></div>
-                                <div class="content">
-                                    <a href="javascript:void(0)" class="title text-white d-block font-weight-bold">Riser Coffee</a>
-                                    <small class="text-light">Branding</small>
-                                </div>
-                                <div class="client">
-                                    <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                                    <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--end col-->
+                    
                 </div><!--end row-->
             </div><!--end container-->
         </section><!--end section-->
