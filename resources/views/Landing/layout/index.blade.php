@@ -11,6 +11,7 @@
     <!-- favicon -->
     <link rel="shortcut icon" href="{{asset ('images/logoicon.jpg')}}">
     <!-- Bootstrap -->
+    <link href="{{asset ('stylesheets/application.css')}}" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -20,6 +21,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="{{asset ('javascript/vendor/modernizr-2.7.1.min.js')}}"></script>
     <style>
      /* Slider */
      .slick-slide {
@@ -269,6 +271,55 @@
             <!--end row-->
         </div> <!-- END CONTAINER -->
     </section>
+        <header class="jumbotron" role ="banner">
+            <div class="container">
+
+            <div class="row">
+
+            <div class="col-md-7">
+
+                <!-- Logo -->
+                <figure class="text-center">
+                    <img class="img-logo" src="{{asset ('images/logo.png')}}" alt="">
+                </figure> <!-- /.text-center -->
+
+                <!-- Title -->
+                <h1>Your awesome title here</h1>
+
+                <!-- Sub title -->
+                <p>Architecto numquam perspiciatis commodi laboriosam quod debitis placeat maxime quaerat soluta quia porro dicta sunt nemo voluptates!</p>
+
+                <!-- Button -->
+                <p class="btn-app-store">
+                <a class="btn btn-danger btn-lg" href="#fakelinks">
+                    <img src="{{asset ('images/btn-app-store.png')}}" alt="">
+                </a>
+                </p> <!-- /.btn-app-store -->
+
+                  <!-- Button -->
+                <p class="btn-play-store">
+                <a class="btn btn-danger btn-lg" href="#fakelinks">
+                    <img src="{{asset ('images/playstore.png')}}" alt="">
+                </a>
+                </p> <!-- /.btn-play-store -->
+
+                <img src="{{asset ('images/playstore.png')}}" alt="">
+            </div> <!-- /.col-md-7 -->
+
+            <div class="col-md-5">
+
+            <!-- Images showcase -->
+            <figure>
+            <img class="img-iPhone" src="{{asset ('images/2.png')}}" alt="">
+            </figure>
+
+        </div> <!-- /.col-md-5 -->
+        
+        </div> <!-- /.row -->
+
+        </div> <!-- /.container -->
+    </header>
+<br>
     <section class="section_quick_link">
 		<div class="container">
 			<div class="row">
@@ -543,7 +594,10 @@
     <!-- Main Js -->
     <script src="{{asset('landrick-asset/js/app.js')}}"></script>
     <script src="{{asset('landrick-asset/js/owl.carousel.min.js')}} "></script>
-     <script src="{{asset('landrick-asset/js/owl.init.js')}} "></script>
+    <script src="{{asset('landrick-asset/js/owl.init.js')}} "></script>
+    <script src="{{asset ('javascript/vendor/jquery-2.1.0.min.js')}}"></script>
+    <script src="{{asset ('javascript/bootstrap.min.js')}}"></script>
+    <script src="{{asset ('javascript/assets/application.js')}}"></script>
 </body>
 
 </html>

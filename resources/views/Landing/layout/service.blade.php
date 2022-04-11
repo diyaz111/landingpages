@@ -206,7 +206,7 @@
         
        
         <!-- Project Start -->
-        <section class="section bg-light">
+        <section class="section">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 text-center">
@@ -267,11 +267,44 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!--end col-->
-
-                    
+                    </div><!--end col-->                    
+                </div><!--end row-->
+                <br>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="card blog position-relative overflow-hidden shadow rounded">
+                            <video controls>
+                                <source src="https://sintesa-dev.s3.ap-southeast-1.amazonaws.com/public/assets/video-first.mp4" type="video/webm" />
+                            </video>
+                            <div class="card-body">
+                                <h5 class="card-title text-dark">Tonton Video Kami</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="card blog position-relative overflow-hidden shadow rounded">
+                            <video controls>
+                                <source src="https://sintesa-dev.s3.ap-southeast-1.amazonaws.com/public/assets/video-first.mp4" type="video/webm" />
+                            </video>
+                            <div class="card-body">
+                                <h5 class="card-title text-dark">Tonton Video Kami</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="card blog position-relative overflow-hidden shadow rounded">
+                            <video controls>
+                                <source src="https://sintesa-dev.s3.ap-southeast-1.amazonaws.com/public/assets/video-first.mp4" type="video/webm" />
+                            </video>
+                            <div class="content p-4">
+                                <h4><a href="javascript:void(0)" class="title text-dark">Tonton Video Kami</a></h4>
+                               
+                            </div>
+                        </div>
+                    </div>
                 </div><!--end row-->
             </div><!--end container-->
+            <br>
         </section><!--end section-->
         <footer class="footer">
         @include('Landing.layout.footer.footer')
