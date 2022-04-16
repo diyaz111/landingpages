@@ -284,7 +284,7 @@
                 </figure> <!-- /.text-center -->
 
                 <!-- Title -->
-                <h1>Your awesome title here</h1>
+                <h1>Your awesome title here</h1>x
 
                 <!-- Sub title -->
                 <p>Architecto numquam perspiciatis commodi laboriosam quod debitis placeat maxime quaerat soluta quia porro dicta sunt nemo voluptates!</p>
@@ -302,8 +302,6 @@
                     <img src="{{asset ('images/playstore.png')}}" alt="">
                 </a>
                 </p> <!-- /.btn-play-store -->
-
-                <img src="{{asset ('images/playstore.png')}}" alt="">
             </div> <!-- /.col-md-7 -->
 
             <div class="col-md-5">
@@ -351,7 +349,7 @@
 						</div>
 						<!--.carousel-item-->
 						<div class="carousel-item">
-                        <img src="{{asset ('image/ovo.jpg')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
+                        <img src="{{asset ('image/ovo2.png')}}" style="width:128px;height:128px;" class="img-fluid" alt="">
 						</div>
 						<!--.carousel-item-->
                         <div class="carousel-item">

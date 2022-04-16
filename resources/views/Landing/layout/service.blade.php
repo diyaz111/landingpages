@@ -273,8 +273,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="card blog position-relative overflow-hidden shadow rounded">
-                            <video controls>
-                                <source src="https://sintesa-dev.s3.ap-southeast-1.amazonaws.com/public/assets/video-first.mp4" type="video/webm" />
+                            <video src="{{asset ('video/1.mp4')}}" controls>
                             </video>
                             <div class="card-body">
                                 <h5 class="card-title text-dark">Tonton Video Kami</h5>
@@ -283,8 +282,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="card blog position-relative overflow-hidden shadow rounded">
-                            <video controls>
-                                <source src="https://sintesa-dev.s3.ap-southeast-1.amazonaws.com/public/assets/video-first.mp4" type="video/webm" />
+                        <video src="{{asset ('video/2 (1).mp4')}}" controls>
                             </video>
                             <div class="card-body">
                                 <h5 class="card-title text-dark">Tonton Video Kami</h5>
@@ -293,8 +291,36 @@
                     </div>
                     <div class="col-lg-4 col-md-6 mt-4 pt-2">
                         <div class="card blog position-relative overflow-hidden shadow rounded">
-                            <video controls>
-                                <source src="https://sintesa-dev.s3.ap-southeast-1.amazonaws.com/public/assets/video-first.mp4" type="video/webm" />
+                        <video src="{{asset ('video/2 (3).mp4')}}" controls>
+                            </video>
+                            <div class="content p-4">
+                                <h4><a href="javascript:void(0)" class="title text-dark">Tonton Video Kami</a></h4>
+                               
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="card blog position-relative overflow-hidden shadow rounded">
+                            <video src="{{asset ('video/2 (2).mp4')}}" controls>
+                            </video>
+                            <div class="card-body">
+                                <h5 class="card-title text-dark">Tonton Video Kami</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="card blog position-relative overflow-hidden shadow rounded">
+                        <video src="{{asset ('video/2 (4).mp4')}}" controls>
+                            </video>
+                            <div class="card-body">
+                                <h5 class="card-title text-dark">Tonton Video Kami</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="card blog position-relative overflow-hidden shadow rounded">
+                        <video src="{{asset ('video/2 (5).mp4')}}" controls>
                             </video>
                             <div class="content p-4">
                                 <h4><a href="javascript:void(0)" class="title text-dark">Tonton Video Kami</a></h4>

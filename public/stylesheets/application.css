@@ -3733,6 +3733,7 @@ tbody.collapse.in {
 }
 .jumbotron .btn-play-store {
   margin-top: 40px;
+    
 }
 .jumbotron .btn-app-store .btn.btn-lg, .jumbotron .btn-app-store .btn-group-lg > .btn {
   padding: 0;
@@ -3740,12 +3741,14 @@ tbody.collapse.in {
 .jumbotron .btn-play-store .btn.btn-lg, .jumbotron .btn-play-store .btn-group-lg > .btn {
   padding: 0;
 }
-.jumbotron .btn-app-store .btn img {
+.jumbotron .btn-app-store .btn-play-store .btn img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 180px;
   height: auto;
+  width : 200px;
+  height: 60px;
 }
 
 .jumbotron .btn-play-store .btn img {
@@ -3754,6 +3757,8 @@ tbody.collapse.in {
   margin-right: auto;
   width: 180px;
   height: auto;
+  width : 200px;
+  height: 60px;
 }
 
 .embed-responsive {
