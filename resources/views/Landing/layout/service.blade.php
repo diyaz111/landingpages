@@ -276,7 +276,7 @@
                             <video src="{{asset ('video/1.mp4')}}" controls>
                             </video>
                             <div class="card-body">
-                                <h5 class="card-title text-dark">Tonton Video Kami</h5>
+                                <h5 class="card-title text-dark">Halaman Admin</h5>
                             </div>
                         </div>
                     </div>
@@ -285,7 +285,7 @@
                         <video src="{{asset ('video/2 (1).mp4')}}" controls>
                             </video>
                             <div class="card-body">
-                                <h5 class="card-title text-dark">Tonton Video Kami</h5>
+                                <h5 class="card-title text-dark">Tutorial Halaman Admin</h5>
                             </div>
                         </div>
                     </div>
@@ -294,7 +294,7 @@
                         <video src="{{asset ('video/2 (3).mp4')}}" controls>
                             </video>
                             <div class="content p-4">
-                                <h4><a href="javascript:void(0)" class="title text-dark">Tonton Video Kami</a></h4>
+                                <h4><a href="javascript:void(0)" class="title text-dark">Halaman Seller</a></h4>
                                
                             </div>
                         </div>
@@ -305,7 +305,7 @@
                             <video src="{{asset ('video/2 (2).mp4')}}" controls>
                             </video>
                             <div class="card-body">
-                                <h5 class="card-title text-dark">Tonton Video Kami</h5>
+                                <h5 class="card-title text-dark">Tutorial Halaman Seller</h5>
                             </div>
                         </div>
                     </div>
@@ -314,7 +314,7 @@
                         <video src="{{asset ('video/2 (4).mp4')}}" controls>
                             </video>
                             <div class="card-body">
-                                <h5 class="card-title text-dark">Tonton Video Kami</h5>
+                                <h5 class="card-title text-dark">Halaman Reseller</h5>
                             </div>
                         </div>
                     </div>
@@ -323,7 +323,7 @@
                         <video src="{{asset ('video/2 (5).mp4')}}" controls>
                             </video>
                             <div class="content p-4">
-                                <h4><a href="javascript:void(0)" class="title text-dark">Tonton Video Kami</a></h4>
+                                <h4><a href="javascript:void(0)" class="title text-dark">Tutorial Halaman Reseller</a></h4>
                                
                             </div>
                         </div>

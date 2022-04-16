@@ -51,8 +51,8 @@
 
                     <div class="col-lg-6 col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="section-title ml-lg-4">
-                            <h4 class="title mb-4">Our Story</h4>
-                            <p class="text-muted">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy texts have been in use by typesetters since the 16th century.</p>
+                            <h4 class="title mb-4">Abbabill</h4>
+                            <p class="text-muted">Kami membantu anda mendapatkan data-data menarik dari hasil penjualan anda agar anda dapat menjual lebih banyak produk. <br><span class="text-primary font-weight-bold">Abbabill</span> bergerak dibidang e-commerce yang dapat membantu para pengusaha untuk memantau penjualan dan juga dapat mengajak reseller untuk join ke dalam grup dan dapat memantau proses perkembanganya.</p>
                             <span class="text-primary font-weight-bold"><q>Kalau Jualan Bisa Lebih Mudah, Kenapa Harus Ribet.</q></span>
                             <a href="javascript:void(0)" class="btn btn-primary mt-3">Coba Gratis <i class="mdi mdi-chevron-right"></i></a>
                         </div>

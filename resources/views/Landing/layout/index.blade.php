@@ -284,10 +284,10 @@
                 </figure> <!-- /.text-center -->
 
                 <!-- Title -->
-                <h1>Your awesome title here</h1>x
+                <h1>Mulai Usaha Mu Dengan Produk Kami</h1>
 
                 <!-- Sub title -->
-                <p>Architecto numquam perspiciatis commodi laboriosam quod debitis placeat maxime quaerat soluta quia porro dicta sunt nemo voluptates!</p>
+                <p>Abbabill bergerak dibidang e-commerce yang dapat membantu para pengusaha untuk memantau penjualan dan juga dapat mengajak reseller untuk join ke dalam grup dan dapat memantau proses perkembanganya.</p>
 
                 <!-- Button -->
                 <p class="btn-app-store">
@@ -299,7 +299,7 @@
                   <!-- Button -->
                 <p class="btn-play-store">
                 <a class="btn btn-danger btn-lg" href="#fakelinks">
-                    <img src="{{asset ('images/playstore.png')}}" alt="">
+                    <img src="{{asset ('image/playstore.png')}}" alt="">
                 </a>
                 </p> <!-- /.btn-play-store -->
             </div> <!-- /.col-md-7 -->
